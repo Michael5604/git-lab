@@ -20,4 +20,12 @@ anwser 8: commit 485abe96b708148d087045e1246aba5c84cc3d08 (HEAD -> main)
 
     inital commit
 anwser 9:No changes added to be commited
-anwser 10:
+anwser 10: the changes were not made locally
+anwser 11:hint: Updates were rejected because the remote contains work that you do
+	hint: not have locally. This is usually caused by another repository pushing
+	hint: to the same ref. You may want to first integrate the remote changes
+	hint: (e.g., 'git pull ...') before pushing again.
+	hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+anwser 12: the changes were reflected locally
+anwser 13: .  ..  .git  .gitignore  README.md
+
